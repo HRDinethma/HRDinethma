@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **h.r.dinethma@gmail.com**
 
-- ⚡ Fun fact **Call me as Nami**
-
 </td>
 <td width="50%" align="center">
 
