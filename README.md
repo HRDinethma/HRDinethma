@@ -9,9 +9,9 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 🧑‍🎓 I’m an Undergraduate at **---**
+- 🧑‍🎓 I’m an Undergraduate at **JIAT**
 
-- 🌱 I’m currently learning **----**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **h.r.dinethma@gmail.com**
 
