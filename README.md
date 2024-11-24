@@ -42,8 +42,8 @@
 <br/>
 <h2 align="center" style="margin: 5px 10px;"><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="30"> Github stats:</h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrdinethma" alt="hrdinethma" /></a> </p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=hrdinethma&show_icons=true&locale=en" alt="hrdinethma" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=hrdinethma&" alt="hrdinethma" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrdinethma&show_icons=true&locale=en" alt="hrdinethma" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrdinethma&" alt="hrdinethma" /></p>
 <br/><br/>
 
 
