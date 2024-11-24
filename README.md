@@ -3,10 +3,7 @@
 </div>
 
 <h1 align="center"><b>I'm DInethma Gunasekara</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-<!--  -->
-
-
+<!--<p align="right"> <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" />-->
 
 - 🔭 I’m currently working on **AlgouniX** 
 - 🌱 I’m currently learning **Java**
@@ -14,7 +11,6 @@
 - ⚡thank you so much for reading it
 
 - 📫 How to reach me <a href="mailto:h.r.dinethma@gmail.com@gmail.com?subject=Hello%20Sameer"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
-<p align="right"> <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" />
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=hrdinethma&label=Profile%20views&color=0e75b6&style=flat" alt="hrdinethma" /> </p>
 
