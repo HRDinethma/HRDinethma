@@ -1,9 +1,12 @@
 <div align="center"><img alt="dsmark" height="37px" width="40px" src="https://c.tenor.com/P7zWdgA3E2EAAAAi/spunchbob-the-g.gif"></img>Hello<img alt="Hola" height="30px" width="40px" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/ghost_1f47b.png"></img>
 
 </div>
+
+<br/>
+<br/>
 <picture> <img align="right" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width = 400px></picture>
 
-<h1 align="center"><b>I'm Dinethma Gunasekara</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="left"><b>I'm Dinethma Gunasekara</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--<p align="right"> <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" />-->
 
 - 🔭 I’m currently working on **AlgouniX** 
