@@ -44,6 +44,16 @@
 <br/>
 <h2 align="center" style="margin: 5px 10px;"><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="30"> Github stats:</h2>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrdinethma" alt="hrdinethma" /></a> </p>
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=hrdinethma&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hrdinethma&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hrdinethma&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+	
+</a>
+</div>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrdinethma&show_icons=true&locale=en" alt="hrdinethma" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrdinethma&" alt="hrdinethma" /></p>
 <br/><br/>
