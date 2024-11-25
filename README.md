@@ -2,7 +2,7 @@
 
 </div>
 
-<h1 align="center"><b>I'm DInethma Gunasekara</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>I'm Dinethma Gunasekara</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--<p align="right"> <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" />-->
 
 - 🔭 I’m currently working on **AlgouniX** 
