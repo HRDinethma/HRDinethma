@@ -43,7 +43,7 @@
 <br/>
 <br/>
 <h2 align="center" style="margin: 5px 10px;"><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="30"> Github stats:</h2>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrdinethma&theme=dracula&column=4&no-frame=true" alt="hrdinethma" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hrdinethma&theme=dracula" alt="hrdinethma" /></a> </p>
 
 <div align="center">
 
