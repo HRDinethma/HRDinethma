@@ -47,15 +47,14 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=hrdinethma&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hrdinethma&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=hrdinethma&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hrdinethma&theme=dracula&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hrdinethma&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 	
 </a>
 </div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hrdinethma&show_icons=true&locale=en" alt="hrdinethma" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hrdinethma&" alt="hrdinethma" /></p>
+
 <br/><br/>
 
 
