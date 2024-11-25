@@ -9,8 +9,8 @@
 <h1 align="left"><b>I'm Dinethma Gunasekara</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--<p align="right"> <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" />-->
 
-- 🔭 I’m currently working on **AlgouniX** 
-- 🌱 I’m currently learning **Java**
+- 🔭 I’m currently working at **AlgouniX** 
+- 🌱 I’m currently learning **OOP** with **Java**
 - 👨‍💻 I'm a second-year student.
 - ⚡thank you so much for reading it
 
